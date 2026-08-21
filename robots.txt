@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glauciabastosnutricao-byte.github.io/Glauciabastosnutricionista/sitemap.xml
